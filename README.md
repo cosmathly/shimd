@@ -1,9 +1,6 @@
 # shimd
 shimd turns runc into a server、controls the stdio of containered porcess and keeps track of the exit code of containered process.  
-> build
-
+# build
 use **make** to build shimd.
-
-> running
-
+# running
 use **./shimd port ip_addr runc_path** to run shimd.
