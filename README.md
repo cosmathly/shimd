@@ -3,4 +3,4 @@ shimd turns runc into a server、controls the stdio of containered porcess and k
 # build
 use **make** to build shimd.
 # running
-use **./shimd port ip_addr runc_path to run shimd.
+use **./shimd port ip_addr runc_path** to run shimd.
